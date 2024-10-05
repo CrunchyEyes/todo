@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #9df9ef;
+}
+#main{
+    width: 30%;
+    margin: 0 auto;
+    padding: 50px;
+    color: white;
+    background: #2d545e;
+}
+#main h1{
+    text-transform: uppercase;
+    margin-bottom: 5%;
+
+}
+.single-task{
+    width: 353px;
+    padding: 15px;
+}
+button{
+    background: #bf4aa8;
+    border: none;
+    color: white;
+    padding: 13px 18px;
+}
